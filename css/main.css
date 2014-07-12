@@ -1,0 +1,47 @@
+img.header {
+}
+
+body {
+    line-height: 1.75em;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: rgba(0,0,0,0.75);
+}
+
+div.content {
+    margin: 2em;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Gentium Book Basic', serif;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+ul.category {
+    font-size: 1.2em;
+    border-style: solid;
+    border-width: 10px 0 0 10px;
+    margin-right: 20%;
+    padding-top: .5em;
+    border-color: #FF6138;
+    list-style: none;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+a:hover, a:focus {
+    color: #00A388;
+    text-decoration: underline;
+}
+
+a {
+    color: #79BD8F;
+    text-decoration: none;
+}

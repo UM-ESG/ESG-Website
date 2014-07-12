@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gulp-markdown": "~0.1.2",
+    "gulp": "~3.8.6",
+    "gulp-preprocess": "~1.1.1",
+    "gulp-rimraf": "~0.1.0"
+  }
+}
