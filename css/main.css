@@ -9,6 +9,10 @@ div.content {
     margin: 2em;
 }
 
+div.content > ul {
+    line-height: 100%;
+}
+
 h2 {
     font-weight: bold;
 }
