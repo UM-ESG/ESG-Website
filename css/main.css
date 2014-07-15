@@ -46,3 +46,8 @@ a {
     color: #79BD8F;
     text-decoration: none;
 }
+
+iframe {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
