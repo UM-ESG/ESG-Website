@@ -1,38 +1,68 @@
-For quick access: here's the the application.
-
-## The Process
-
-This is test demonstrating Robert knows how to include markdown.
-
-- Group asks for money from UMEC by submitting an application
-- The financial committee reviews the application. If more information is
-  needed to make a decision, the financial committee will contact whoever
-  submitted the application
-- If the financial committee decides to fund the event, money will be
-  transferred to the group's SOAS account.
-- Group member buys materials for the event.
-- Event
-- Group member is reimbursed by the group
-- Any leftover money is returned to UMEC.
-
-## What UMEC Doesn't Fund
-
-- Alcohol. Don't even try it -- even if it is catered by the University.
-- The same event twice. 'Same' can be ambiguous and is up to the discretion of
-  the financial committee
-- Transporation. UMEC doesn't **normally** fund transportation
-
-## Auditing
-
-UMEC's financial committee has one role and one role only: to disperse money to
-groups who will make the community a better place (and this implicitly implies
-making a budget, which we also do). The funding process is a mix of efficiency
-and good faith. UMEC funds events in advance so that groups can guarantee
-members that they will be reimbursed. This guarantee would not be possible if
-UMEC only did reimbursements and that could negatively impact events. Any
-leftover money from the event should be transferred back to UMEC's account, yet
-UMEC won't follow up if this doesn't happen; choosing to believe any withheld
-leftover money will be used to benefit the community in the future. This is a
-controversial methodology, but we believe that it is the best one. It allows
-for both UMEC and the student group not to be caught up in the bureaucracy that
-normally encompasses finances. 
+1. Call to Order
+	- Apology for delays – minimal conversation with previous officers
+	- Earn our trust
+	- Explain agenda
+2. Introduce Committees
+	- Director of Finance - Andrew Olson (umec.dof)
+		+ Rachel Neumann
+		+ Ryan Benedict
+		+ Anna Munaco
+		+ Jan Wu
+	- Corporate Director - Tyler Martinez (umec.corpdir)
+		+ Arjun Biyani
+		+ Huaiyao Qiu
+	- Director of Social Affairs - Emily Leppek (umec.soc)
+		+ Brittany Kaplan
+		+ Eric Adams
+		+ Brooke Spruit
+		+ Caroline Hawath
+		+ Keshav Varadachari
+		+ Jiaxin Wang 
+	- Honors and Services Director - Corryn Cawley (umec.has)
+		+ Paul Lee
+		+ Junhao Wang
+		+ Wincent Tandar
+		+ Hersh Perlmutter
+		+ Brianna Kelly
+		+ Nate Wernette
+		+ Alex Swantek
+		+ Erin Flannery 
+	- Director of Leadership - Brigid McNamara (umec.dol) 
+		+ Nikil Kulkarni 
+		+ Anavir Shermon 
+		+ Kathryn Garelli 
+		+ Casandra Smith
+		+ Matthew Schneider 
+	- Publicity Director - Grey Braybrooks (umec.pub) 
+		+ Lukas Stull
+		+ Mike Vizzini
+		+ Matt Deschaine
+		+ Ben Getz
+3. Goals
+	- Director of Administration - Anna Shrestinian (umec.doa)
+		+ Be a service organization to connect engineering societies to each other
+		+ Make more meaningful and relevant events
+4. Officer Announcements
+	- Vice President - Selina Thompson (umec.vp)
+		+ Office hours on website
+	- Director of Social Affairs - Emily Leppek (umec.soc) 
+		+ Springfest
+	- Honors and Services Director - Corryn Cawley (umec.has)
+		+ North Campus Day
+		+ Order of Engineer
+	- Student Affairs Director - Erin Martell (umec.studaff)
+		+ Newsletter is being reinstated
+		+ Highlights of engineering organizations
+	- Corporate Director - Tyler Martinez (umec.corpdir)
+		+ Resource to connect to companies
+		+ Pinnacle AIS is looking for 25 engineers for internships and full time jobs
+	- President - Boying Liu (umec.pres)
+		+ Making UMEC better
+		+ Asks for feedback
+	- Director of Finance - Andrew Olson (umec.dof)
+		+ Budget approval details
+	- Vice President - Selina Thompson (umec.vp)
+		+ Details on election
+5. Open Floor
+6. Adjourn
+	- Next meeting March 12, 2014 at 7:00 pm in 1013 DOW
