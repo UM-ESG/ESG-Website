@@ -9,6 +9,10 @@ div.content {
     margin: 2em;
 }
 
+div.content > ul {
+    line-height: 100%;
+}
+
 h2 {
     font-weight: bold;
 }
@@ -41,4 +45,9 @@ a:hover, a:focus {
 a {
     color: #79BD8F;
     text-decoration: none;
+}
+
+iframe {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
 }

@@ -1,4 +1,7 @@
-For quick access: here's the the application.
+For quick access: here's the [application][]. You will need to login with your
+uniqname, so that we can verify who you are and also contact you if need be.
+
+[application]: https://docs.google.com/a/umich.edu/forms/d/1yrwxO7wDJ96AZru1p4PkZ_quw-0dc-z8r8bnyKD9160/viewform?usp=send_form
 
 ## The Process
 
@@ -20,7 +23,7 @@ Here is the process for how UMEC is involved when funding an event.
 - Alcohol. Don't even try it -- even if it is catered by the University.
 - The same event twice. 'Same' can be ambiguous and is up to the discretion of
   the financial committee
-- Transporation. UMEC doens't **normally** fund transportation
+- Transporation. UMEC doesn't **normally** fund transportation
 
 ## Auditing
 
