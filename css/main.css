@@ -3,6 +3,10 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     color: rgba(0,0,0,0.75);
+
+    /* Always shows scrollbars so the UMEC image doesn't shift between long
+       pages and short pages when scrollbar is present/not present. */
+    overflow-y: scroll;
 }
 
 div.content {
