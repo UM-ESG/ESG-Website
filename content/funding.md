@@ -1,4 +1,7 @@
-For quick access: here's the the application.
+For quick access: here's the [application][]. You will need to login with your
+uniqname, so that we can verify who you are and also contact you if need be.
+
+[application]: https://docs.google.com/a/umich.edu/forms/d/1yrwxO7wDJ96AZru1p4PkZ_quw-0dc-z8r8bnyKD9160/viewform?usp=send_form
 
 ## The Process
 
