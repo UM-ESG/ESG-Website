@@ -2,6 +2,7 @@ var gulp = require('gulp');
 var markdown = require('gulp-markdown');
 var preprocess = require('gulp-preprocess');
 var rimraf = require('gulp-rimraf');
+var jshint = require('gulp-jshint');
 
 gulp.task('markdown', function() {
     return gulp.src('content/*.md')
@@ -23,6 +24,13 @@ gulp.task('css', function() {
     return gulp.src('css/*').pipe(gulp.dest('bin/css/.'));
 });
 
+gulp.task('js', function() {
+    return gulp.src('js/*')
+        .pipe(jshint())
+        .pipe(jshint.reporter('fail'))
+        .pipe(gulp.dest('bin/js/.'));
+});
+
 gulp.task('images', function() {
     return gulp.src('img/*').pipe(gulp.dest('bin/img/.'));
 });
@@ -37,5 +45,6 @@ gulp.task('default', [
     'clean-markdown-temps',
     'css',
     'images',
-    'assets'
+    'assets',
+    'js'
 ]);
