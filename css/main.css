@@ -29,6 +29,12 @@ p {
     font-size: 1.2em;
 }
 
+ul.subcategory {
+    margin: 0;
+    list-style: none;
+    padding-left: 1em;
+}
+
 ul.category {
     font-size: 1.2em;
     border-style: solid;
