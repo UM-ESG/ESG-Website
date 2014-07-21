@@ -1,12 +1,15 @@
 body {
     line-height: 1.75em;
-    max-width: 1200px;
-    margin: 0 auto;
     color: rgba(0,0,0,0.75);
 
     /* Always shows scrollbars so the UMEC image doesn't shift between long
        pages and short pages when scrollbar is present/not present. */
     overflow-y: scroll;
+}
+
+div.main {
+    max-width: 1200px;
+    margin: 0 auto;    
 }
 
 div.content {
@@ -15,6 +18,17 @@ div.content {
 
 div.content > ul {
     line-height: 100%;
+}
+
+div.footer-container {
+    margin-top: 3em;
+    text-align: center;
+    padding-bottom: 1em;
+    border-style: solid;
+    border-width: 20px 0 0 0;
+    border-color: #B24327;
+    background-color: #FF6138;
+    color: white;
 }
 
 h2 {
