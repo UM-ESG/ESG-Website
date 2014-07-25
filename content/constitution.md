@@ -1,3 +1,7 @@
+# UMEC Constitution
+
+Last revised May 2014
+
 **Table of Contents**
 
 - [Preamble](#preamble)

@@ -1,3 +1,5 @@
+# UMEC Committees
+
 **Table of Contents**
 
 - [Funding](#funding)

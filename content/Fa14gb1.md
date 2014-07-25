@@ -1,3 +1,5 @@
+# Fall 2014 General Body 1 Minutes - 2/19/14
+
 1. Call to Order
 	- Apology for delays – minimal conversation with previous officers
 	- Earn our trust
