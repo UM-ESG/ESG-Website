@@ -1,9 +1,11 @@
 {
   "devDependencies": {
-    "gulp-markdown": "~0.1.2",
     "gulp": "~3.8.6",
     "gulp-preprocess": "~1.1.1",
     "gulp-rimraf": "~0.1.0",
-    "gulp-jshint": "^1.7.1"
+    "gulp-jshint": "^1.7.1",
+    "marked": "~0.3.2",
+    "through2": "~0.5.1",
+    "gulp-util": "~3.0.0"
   }
 }
