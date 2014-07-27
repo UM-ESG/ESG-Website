@@ -7,6 +7,13 @@ var jshint = require('gulp-jshint');
 var gutil = require('gulp-util');
 var through = require('through2');
 var marked = require('marked');
+var _s = require('underscore.string');
+var path = require('path');
+var fs = require('fs');
+var Promise = require('bluebird');
+var glob = Promise.promisify(require('glob-all'));
+var pp = Promise.promisify(require('preprocess').preprocessFile);
+Promise.promisifyAll(fs);
 
 // Here we customize the markdown renderer to fit with the headings that the
 // table of contents tool (doctoc) generates. The first id is "text" and
@@ -64,7 +71,36 @@ gulp.task('markdown', function() {
         .pipe(gulp.dest('content/.'));
 });
 
-gulp.task('preprocess', ['markdown'], function() {
+// Renders all the files that are in markdown and don't have a specific format
+// specified into a generic, but nice looking document
+gulp.task('content-markdown', ['markdown'], function(cb) {
+    // Find all the files that have been rendered into html from markdown and
+    // don't have an associated html file in the base directory
+    var files = glob("*.html").then(function(paths) {
+        var newglob = paths.map(function(val) {
+            return "!" + path.join("content", path.basename(val));
+        });
+        return glob(["content/*.html"].concat(newglob));
+    });
+
+    Promise.join(files, fs.readFileAsync(path.join("includes", "content.html"), { encoding: 'utf8' }),
+        function(paths, template) {
+            // Create an individualized template for each of the markdown files
+            return paths.map(function(val) {
+                var templatePath = path.basename(val);
+                var newContents = template.replace("##REPLACE##", val);
+                return fs.writeFileAsync(templatePath, newContents).return(templatePath);
+            });
+        }).map(function(val) {
+            // Instantiate the template and remove the temporary template
+            // afterwards
+            var binPath = path.join("bin", val);
+            var title = _s.humanize(path.basename(val, ".html"));
+            return pp(val, binPath, {TITLE: title}).return(val);
+        }).each(fs.unlink).all().then(function() { cb(); });
+});
+
+gulp.task('preprocess', ['markdown', 'content-markdown'], function() {
     return gulp.src('*.html')
         .pipe(preprocess())
         .pipe(gulp.dest('./bin'));
