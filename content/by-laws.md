@@ -1,3 +1,5 @@
+# UMEC By-Laws
+
 **Table of Contents** 
 
 - [Article I: MEMBERSHIP AND VOTING PRIVILEGES](#article-i-membership-and-voting-privileges)
