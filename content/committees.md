@@ -5,6 +5,7 @@
 - [Funding](#funding)
 - [Leadership](#leadership)
 - [Honor and Services](#Honor and Services)
+- [Publicity](#Publicity)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,3 +44,18 @@ Responsibilities of committee members:
 The Director of Honors and Service leads the committee. 
 
 Volunteering experience is preferred for potential committee members, though not a prerequisite.
+
+## Publicity
+
+The purpose of the Publicity Committee is to promote UMEC and UMEC events
+around campus.  Members of the committee will participate in Festifall,
+Northfest, and Winterfest.
+
+Members will be responsible for:
+
+- Designing the flyers, posters, and advertisements used for UMEC events
+- Disseminating information prior to the UMEC event
+
+Membership is open to all interested students. The Publicity Committee meets
+for one hour per week, and meetings are led by the Publicity Chair.
+
