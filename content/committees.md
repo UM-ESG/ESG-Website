@@ -4,9 +4,9 @@
 
 - [Funding](#funding)
 - [Leadership](#leadership)
-- [Honors and Services](#honors and service)
+- [Honors and Services](#honors-and-service)
 - [Publicity](#publicity)
-- [Student Affairs](#student affairs)
+- [Student Affairs](#student-affairs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
