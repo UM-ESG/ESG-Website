@@ -1,5 +1,7 @@
 # UMEC Committees
 
+Serving on a UMEC committee is a great way to become involved in campus culture and student government.  Apply using the [common application](https://docs.google.com/a/umich.edu/forms/d/1-t7zb_mtO02D0ReBKTHrrhtMYh7DGhkG5dibf9vBrGg/viewform?usp=send_form).  If you're interested in more than one, apply to several (using a single application) and we will place you based on need and fit.  Be sure to read about the committee(s) to which you're applying!
+
 **Table of Contents**
 
 - [Funding](#funding)
