@@ -23,7 +23,7 @@ Here is the process for how UMEC is involved when funding an event.
 - Alcohol. Don't even try it -- even if it is catered by the University.
 - The same event twice. 'Same' can be ambiguous and is up to the discretion of
   the financial committee
-- Transporation. UMEC doesn't **normally** fund transportation
+- Transportation. UMEC doesn't **normally** fund transportation
 
 ## Auditing
 
