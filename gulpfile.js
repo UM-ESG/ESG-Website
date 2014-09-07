@@ -5,6 +5,7 @@ var preprocess = require('gulp-preprocess');
 var rimraf = require('gulp-rimraf');
 var jshint = require('gulp-jshint');
 var gutil = require('gulp-util');
+var prefix = require('gulp-autoprefixer');
 var through = require('through2');
 var marked = require('marked');
 var _s = require('underscore.string');
@@ -111,7 +112,9 @@ gulp.task('clean-markdown-temps', ['preprocess'], function() {
 });
 
 gulp.task('css', function() {
-    return gulp.src('css/*').pipe(gulp.dest('bin/css/.'));
+    return gulp.src('css/*')
+        .pipe(prefix('last 2 version', '> 1%'))
+        .pipe(gulp.dest('bin/css/.'));
 });
 
 gulp.task('js', function() {
