@@ -38,9 +38,18 @@ div.biographies img {
 }
 
 div.biography {
-    display: table;
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+@media screen and (min-width: 48em) {
+    div.biography {
+        display: table;
+    }
+
+    div.biography:nth-child(even) .imger {
+        padding-left: 4em;
+    }
 }
 
 div.biography .imger { 
@@ -54,10 +63,6 @@ div.biography div.text {
 
 div.biography p {
     text-align: justify;
-}
-
-div.biography:nth-child(even) .imger {
-    padding-left: 4em;
 }
 
 div.footer-container {
