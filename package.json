@@ -10,6 +10,7 @@
     "bluebird": "~2.2.2",
     "preprocess": "~2.0.0",
     "glob-all": "~2.4.1",
-    "underscore.string": "~2.3.3"
+    "underscore.string": "~2.3.3",
+    "gulp-autoprefixer": "0.0.10"
   }
 }
