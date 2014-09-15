@@ -7,7 +7,8 @@ uniqname, so that we can verify who you are and also contact you if need be.
 
 Here is the process for how UMEC is involved when funding an event.
 
-- Group asks for money from UMEC by submitting an application
+- A [registered UMEC group][] asks for money from UMEC by submitting an
+  application
 - The financial committee reviews the application. If more information is
   needed to make a decision, the financial committee will contact whoever
   submitted the application
@@ -39,3 +40,5 @@ leftover money will be used to benefit the community in the future. This is a
 controversial methodology, but we believe that it is the best one. It allows
 for both UMEC and the student group not to be caught up in the bureaucracy that
 normally encompasses finances. 
+
+[registered UMEC group]: http://umec.engin.umich.edu/registered-groups.html
