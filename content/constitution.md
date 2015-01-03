@@ -1,4 +1,4 @@
-# UMEC Constitution
+# ESG Constitution
 
 Last revised May 2014
 
@@ -74,15 +74,15 @@ The name of this organization shall be University of Michigan Engineering Counci
 
 ## Section 1: 
 
-Qualifications for student professional and honorary engineering societies shall be outlined in the UMEC Bylaws. 
+Qualifications for student professional and honorary engineering societies shall be outlined in the ESG Bylaws. 
 
 ## Section 2: 
 
-If for any reason, a representative cannot be at a general body meeting, the society shall forfeit its vote unless a substitute is sent to cast the vote. The substitute must present an email from the actual representative to the Vice-President of UMEC within at least 24 hours of the general body meeting. 
+If for any reason, a representative cannot be at a general body meeting, the society shall forfeit its vote unless a substitute is sent to cast the vote. The substitute must present an email from the actual representative to the Vice-President of ESG within at least 24 hours of the general body meeting. 
 
 ## Section 3: 
 
-The General Council shall consist of tenured members as defined by the UMEC Bylaws Article I Section 2 and each Executive Board member. 
+The General Council shall consist of tenured members as defined by the ESG Bylaws Article I Section 2 and each Executive Board member. 
 
 ## Section 4: 
 
@@ -167,7 +167,7 @@ Committee participation shall be open to all engineering students, undergraduate
 
 ## Section 3: 
 
-Duties of committees shall be as proscribed in Article VI in the UMEC Bylaws.  
+Duties of committees shall be as proscribed in Article VI in the ESG Bylaws.  
 
 ## Section 4: 
 
@@ -245,7 +245,7 @@ Engineering Council shall collect no dues or other general purpose fees from its
 
 ## Section 7: 
 
-If a UMEC member also serves on the NAESC Executive Board and wishes to attend a NAESC Executive Board meeting, they may receive funding from UMEC on the condition that the member applies for funding from at least one other source. UMEC shall finance the remainder of costs not covered by outside services up to a maximum of $400 per NAESC Executive Board meeting. UMEC shall not pay for members' food expenses. 
+If a ESG member also serves on the NAESC Executive Board and wishes to attend a NAESC Executive Board meeting, they may receive funding from ESG on the condition that the member applies for funding from at least one other source. ESG shall finance the remainder of costs not covered by outside services up to a maximum of $400 per NAESC Executive Board meeting. ESG shall not pay for members' food expenses. 
  
 # Article VII: Judiciary 
 
