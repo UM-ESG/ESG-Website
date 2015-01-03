@@ -1,12 +1,12 @@
-# UMEC By-Laws
+# ESG By-Laws
 
 **Table of Contents** 
 
 - [Article I: MEMBERSHIP AND VOTING PRIVILEGES](#article-i-membership-and-voting-privileges)
-  - [Section 1:  UMEC Membership](#section-1-umec-membership)
+  - [Section 1:  ESG Membership](#section-1-umec-membership)
   - [Section 2:  Tenure Membership](#section-2-tenure-membership)
   - [Section 3: Society Membership](#section-3-society-membership)
-- [Article II: UMEC MEETINGS](#article-ii-umec-meetings)
+- [Article II: ESG MEETINGS](#article-ii-umec-meetings)
   - [Section 1:](#section-1)
   - [Section 2:](#section-2)
   - [Section 3:](#section-3)
@@ -56,16 +56,16 @@
 - [Article XII: MICHIGAN STUDENT ASSEMBLY](#article-xii-michigan-student-assembly)
   - [Section 1: Tenure](#section-1-tenure)
 - [Article XIII: INSIGNIA](#article-xiii-insignia)
-  - [Section 1: Use of the UMEC Name](#section-1-use-of-the-umec-name)
-  - [Section 2: UMEC Seal](#section-2-umec-seal)
-  - [Section 3: UMEC Logo](#section-3-umec-logo)
+  - [Section 1: Use of the ESG Name](#section-1-use-of-the-umec-name)
+  - [Section 2: ESG Seal](#section-2-umec-seal)
+  - [Section 3: ESG Logo](#section-3-umec-logo)
 - [Article XIV: AMENDMENTS](#article-xiv-amendments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Article I: MEMBERSHIP AND VOTING PRIVILEGES
 
-## Section 1:  UMEC Membership
+## Section 1:  ESG Membership
 
 Membership shall be restricted to Engineering Students.  An Engineering Student shall be defined as any student in the following majors:
 
@@ -100,7 +100,7 @@ Any engineering society may be recognized by the Council by fulfilling the follo
 - Organization registered with The Center for Campus Involvement.
 - A society will lose its recognition if it does not meet any one of the requirements 1 through 5 as stated above.
 
-Recognized societies' Representatives are expected to maintain tenure by attending all UMEC General Meetings and should report back to their society on Council business.
+Recognized societies' Representatives are expected to maintain tenure by attending all ESG General Meetings and should report back to their society on Council business.
 
 Recognized societies are expected to send a Representative to the Engineering Student Organization Retreat each semester.
 
@@ -112,7 +112,7 @@ Each society shall have registered with the Vice President the names of (and mea
 
 To ensure that the society maintains a vote on the Engineering Council, the president of each represented society shall notify the Vice President of the Engineering Council, in writing, concerning any change in the identity of their society’s representative, president, or faculty advisor.
 
-# Article II: UMEC MEETINGS
+# Article II: ESG MEETINGS
 
 ## Section 1:
 
@@ -120,7 +120,7 @@ The presiding officer shall be the President of the council.
 
 ## Section 2:
 
-In the absence of the President, the succession of presiding officer shall be the order as presented in Article III, Section 2 in the UMEC Constitution.
+In the absence of the President, the succession of presiding officer shall be the order as presented in Article III, Section 2 in the ESG Constitution.
 
 ## Section 3:
 
@@ -327,7 +327,7 @@ Shall publicize all upcoming Engineering Council general meetings.
 
 Shall be responsible for all Engineering Council announcements
 
-Shall be responsible for the UMEC Newsletter
+Shall be responsible for the ESG Newsletter
 
 Shall be responsible for the planning, production, and distribution of the Engineering Student Planner.
 
@@ -369,9 +369,9 @@ Shall coordinate funding with Corporate Director
 
 Shall be involved in weekly online or phone meetings with NAESC Exec Board and planning of the NAESC national conference.
 
-Shall represent UMEC well while on the NAESC Executive Board.
+Shall represent ESG well while on the NAESC Executive Board.
 
-Shall assist all engineering councils, including UMEC, in any possible way, especially in terms of funding for the NAESC national conference.
+Shall assist all engineering councils, including ESG, in any possible way, especially in terms of funding for the NAESC national conference.
 
 Shall report their progress and NAESC related activities to General Council at least once every two General Body meetings.
 
@@ -444,7 +444,7 @@ Shall be the standing committee of the Publicity Chair.
 
 Shall be responsible for all publicity of Engineering Council meetings.
 
-Shall be responsible for UMEC Newsletter
+Shall be responsible for ESG Newsletter
 
 Shall maintain the web calendar of all Engineering Council and member society events.
 
@@ -478,7 +478,7 @@ Shall be comprised of Society Representatives.
 
 - Every Engineering Council member society must have at least one representative.
 - A representative may represent only one society.
-- The representative is responsible for ensuring that the society he/she represents fulfills the obligations set forth in the UMEC ByLaws and UMEC Constitution.
+- The representative is responsible for ensuring that the society he/she represents fulfills the obligations set forth in the ESG ByLaws and ESG Constitution.
 
 ## General Meetings
 
@@ -500,15 +500,15 @@ Shall be comprised of Society Representatives.
 
 Society status will be defined as Good, Probation, or Suspension.
 
-A society will be given a status for a term of one semester, based on a society’s UMEC involvement for the previous semester. At the end of each semester, societies will be notified by the Vice President of their status for the following semester within two weeks of the last General Body Meeting of the current semester. Throughout the semester, it is the society’s responsibility to ensure their fulfillment of the obligations set forth in Article VIII: MEMBER SOCIETY OBLIGATIONS. A semester is defined as an academic term (Fall and Winter) as scheduled by the Registrar.
+A society will be given a status for a term of one semester, based on a society’s ESG involvement for the previous semester. At the end of each semester, societies will be notified by the Vice President of their status for the following semester within two weeks of the last General Body Meeting of the current semester. Throughout the semester, it is the society’s responsibility to ensure their fulfillment of the obligations set forth in Article VIII: MEMBER SOCIETY OBLIGATIONS. A semester is defined as an academic term (Fall and Winter) as scheduled by the Registrar.
 
-Societies in Good standing will have use of all UMEC services. If a society fulfills all obligations stated in Article VIII during the current semester, the society will be placed in Good standing for the following semester. If a society does not fulfill these obligations, the society will be placed on Probation for the following semester.
+Societies in Good standing will have use of all ESG services. If a society fulfills all obligations stated in Article VIII during the current semester, the society will be placed in Good standing for the following semester. If a society does not fulfill these obligations, the society will be placed on Probation for the following semester.
 
-Societies newly registering with UMEC and societies registering after one or more terms of Suspension shall be placed on Probation for the term during which they register. While on Probation, a society will have use of all UMEC services. If during the semester on Probation, a society fulfills the obligations stated in Article VIII, the society will be placed in Good standing for the following semester. If during the semester on Probation a society does not fulfill all obligations, the society will be placed on Suspension.
+Societies newly registering with ESG and societies registering after one or more terms of Suspension shall be placed on Probation for the term during which they register. While on Probation, a society will have use of all ESG services. If during the semester on Probation, a society fulfills the obligations stated in Article VIII, the society will be placed in Good standing for the following semester. If during the semester on Probation a society does not fulfill all obligations, the society will be placed on Suspension.
 
-Societies on Suspension will not have use of UMEC services and will not be considered to have any affiliation with UMEC. Therefore, following the semester a society spends on Suspension, the society will be welcome to register with UMEC as a new member society.
+Societies on Suspension will not have use of ESG services and will not be considered to have any affiliation with ESG. Therefore, following the semester a society spends on Suspension, the society will be welcome to register with ESG as a new member society.
 
-A society may petition to the Vice President at any time to change their status. The petition will be voted on by the General Body at the General Body meeting following the petition. A two-thirds majority vote is required to change the status of a society.  This status change affects the status for the remainder of the current semester.  When determining status for the following semester, UMEC will consider the most recent society status only.
+A society may petition to the Vice President at any time to change their status. The petition will be voted on by the General Body at the General Body meeting following the petition. A two-thirds majority vote is required to change the status of a society.  This status change affects the status for the remainder of the current semester.  When determining status for the following semester, ESG will consider the most recent society status only.
 
 # Article X: BUDGETARY PROCEDURES
 
@@ -536,7 +536,7 @@ The Engineering Council only provides funding for engineering societies as recog
 
 Societies must have a Representative present at every General Body meeting of the current semester, including the Student Organization Retreat.
 
-Societies must also have completed the allocations report from the previous semester, where applicable. The date that this report needs to be submitted to the Director of Finance will be determined by him/her and announced at a Treasurers’ Meeting at the beginning of the semester and will be announced to the Engineering Council at UMEC General Meetings throughout the semester. This report is to include:
+Societies must also have completed the allocations report from the previous semester, where applicable. The date that this report needs to be submitted to the Director of Finance will be determined by him/her and announced at a Treasurers’ Meeting at the beginning of the semester and will be announced to the Engineering Council at ESG General Meetings throughout the semester. This report is to include:
 
 - Information about how the money was spent 
 - How much was requested and how much was allocated 
@@ -568,39 +568,39 @@ The Director of Finance shall be responsible for forming the Funding Committee a
 
 All allocations decisions shall be made during Funding Committee meetings and with no fewer than four Funding Committee members participating in the decision. 
 
-The policies of the Funding Committee and its administration shall be made available, by the Director of Finance, on the UMEC web site. Violations of the funding policy set forth by the Director of Finance shall be considered violations of the By-Laws of the University of Michigan Engineering Council.
+The policies of the Funding Committee and its administration shall be made available, by the Director of Finance, on the ESG web site. Violations of the funding policy set forth by the Director of Finance shall be considered violations of the By-Laws of the University of Michigan Engineering Council.
 
 # Article XII: MICHIGAN STUDENT ASSEMBLY
 
 ## Section 1: Tenure
 
-Should a vacancy occur in one of the CSG positions of the Engineering College, the General Council shall elect, at the UMEC General Body Meeting after notification, a new representative to serve out the rest of the term in the seat vacated. This election shall require a majority vote. Any representative appointed shall be liable to be recalled at any time remaining in that term by a majority vote of the General Council, if he/she is not serving the duties required by their position. The representative must serve on the Student Affairs Committee in the Council during their term as a representative of the Engineering College in CSG.
+Should a vacancy occur in one of the CSG positions of the Engineering College, the General Council shall elect, at the ESG General Body Meeting after notification, a new representative to serve out the rest of the term in the seat vacated. This election shall require a majority vote. Any representative appointed shall be liable to be recalled at any time remaining in that term by a majority vote of the General Council, if he/she is not serving the duties required by their position. The representative must serve on the Student Affairs Committee in the Council during their term as a representative of the Engineering College in CSG.
 
 # Article XIII: INSIGNIA
 
-## Section 1: Use of the UMEC Name
+## Section 1: Use of the ESG Name
 
-The term “UMEC” may be used in regards to any business officially or unofficially related to the Council. In official Council communications and publications, the full title “University of Michigan Engineering Council” shall be used when possible.
+The term “ESG” may be used in regards to any business officially or unofficially related to the Council. In official Council communications and publications, the full title “University of Michigan Engineering Council” shall be used when possible.
 
 The Council may also be referred to as “Engineering Council” or “U of M Engineering Council.” All other references shall be avoided when used for official business.
 
-## Section 2: UMEC Seal
+## Section 2: ESG Seal
 
 An official Seal shall represent the Council. The seal shall carry the title “University of Michigan Engineering Council,” and the seal shall denote “1927” as the year of the Council’s establishment.
 
 The Council shall use the Seal in all official communications, where deemed appropriate.
 
-The official Seal shall be in circular shape, with UMEC’s title and founding year within its outer boundary.
+The official Seal shall be in circular shape, with ESG’s title and founding year within its outer boundary.
 
 A valid copy of the official Seal shall be kept by the Director of Administration. The official Seal may only be altered with the majority vote of the Council.
 
-## Section 3: UMEC Logo
+## Section 3: ESG Logo
 
-An official Logo shall represent the Council. The logo shall carry the term “UMEC,” and should denote “1927” as the year of the Council’s establishment.
+An official Logo shall represent the Council. The logo shall carry the term “ESG,” and should denote “1927” as the year of the Council’s establishment.
 
 The Council should use the Logo in all communications, where deemed appropriate.
 
-The official Logo shall consist of the block letters “UMEC” in alternating blue and gold colors, with the words “EST. 1927” in black bold lettering centered between the M and E of “UMEC.” There shall be a blue bold underline to the title, with “University of Michigan Engineering Council” in full bold and blue text under the line.
+The official Logo shall consist of the block letters “ESG” in alternating blue and gold colors, with the words “EST. 1927” in black bold lettering centered between the M and E of “ESG.” There shall be a blue bold underline to the title, with “University of Michigan Engineering Council” in full bold and blue text under the line.
 
 A valid copy of the official Logo shall be kept by the Director of Administration. The official Logo may be altered with a majority vote of the Council. 
 
