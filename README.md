@@ -1,11 +1,10 @@
-# UMEC's Website
+# ESG's Website
 
-This repository houses the source code to the University of Michigan
-Engineering Council's website. If there is a problem with the website, please
-[raise an issue][], or if that is not possible, contact one of the executive
-board members.
+This repository houses the source code to the Engineering Student Government
+website. If there is a problem with the website, please [raise an issue][], or
+if that is not possible, contact one of the executive board members.
 
-[raise an issue]: https://github.com/UMEC/umec/issues
+[raise an issue]: https://github.com/UM-ESG/esg/issues
 
 ## How to Build this Website
 
@@ -29,7 +28,7 @@ you're only editing content please see the following section.
 ## How to Add/Edit/Delete Pages
 
 You don't need any coding knowledge whatsoever to add/edit/delete pages on the
-UMEC website. This section is for non-developers. If you're a developer then it
+ESG website. This section is for non-developers. If you're a developer then it
 is expected for you to follow the github workflow, and not make changes to the
 main code immediately, as any code changes will propogate live within a couple
 minutes. I'll walk you through the hardest scenario -- adding a page.
@@ -42,9 +41,9 @@ minutes. I'll walk you through the hardest scenario -- adding a page.
    "why-umec-rules.md". Don't forget the ".md" extension!
 1. Add your content in [markdown format][]
 1. Once finished, fill out the textbox down below with reasons. Something
-   simple like "Add page on why UMEC rules" should be fine.
+   simple like "Add page on why ESG rules" should be fine.
 1. Click the green button and within a couple minutes your new file will be
-   online! Simply navigate to the UMEC homepage and append the title to the url.
+   online! Simply navigate to the ESG homepage and append the title to the url.
    For example, if I had created the page "why-umec-rules.md", I would navigate to
    http://umec.engin.umich.edu/why-umec-rules.html to view it.
 1. The next step would probably be making this page linked from another page so
@@ -53,5 +52,5 @@ minutes. I'll walk you through the hardest scenario -- adding a page.
    `<a href="/why-umec-rules.html">Click Me!</a>` on the html page you want to
    appear.
 
-[Content]: https://github.com/UMEC/umec/tree/master/content
+[Content]: https://github.com/UM-ESG/esg/tree/master/content
 [markdown format]: https://help.github.com/articles/markdown-basics
