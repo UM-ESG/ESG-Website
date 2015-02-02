@@ -1,44 +1,19 @@
 For quick access: here's the [application][]. You will need to login with your
-uniqname, so that we can verify who you are and also contact you if need be.
+uniqname, so that we can verify who you are and also contact you if need be. You can check on the status of your application [here](https://docs.google.com/a/umich.edu/spreadsheets/d/1cjzJnqQExDIZdndRSUpZwyMCC080aTlgziCaT83lHBE/edit?usp=sharing).
 
 [application]: https://docs.google.com/a/umich.edu/forms/d/1NjAO776I9JukbyYUhp31Wcz5LxOIrl7-IgP_8QI4AvE/viewform?usp=send_form
 
 ## The Process
 
-Here is the process for how ESG is involved when funding an event.
+Here is the process for how ESG is involved with student initiatives.
 
-- A [registered ESG group][] asks for money from ESG by submitting an
-  application
-- The financial committee reviews the application. If more information is
-  needed to make a decision, the financial committee will contact whoever
-  submitted the application
-- If the financial committee decides to fund the event, money will be
-  transferred to the group's SOAS account.
-- Group member buys materials for the event.
-- Event
-- Group member is reimbursed by the group
-- Any leftover money is returned to ESG.
+1. You ask for funds by submitting an [application][]. Anyone can apply, whether you’re an individual or a student organization.
+2. The budgetary committee reviews the application. If more information is needed to make a decision, they’ll contact you.
+3. If the budgetary committee decides to fund your initiative, that decision goes to the ESG Senate for approval.
+4. Once the funding is approved, you’ll get an email. If you’re a student organization, the funds will be transferred to the group's SOAS account.
+5. You and/or your group members make purchases related to your initiative.
+6. If you’re a student org, you reimburse your members, and then return any leftover money to ESG. If you’re not a student organization, you’ll submit receipts to the ESG Treasurer for direct reimbursement.
 
-## What ESG Doesn't Fund
+## What ESG Does and Does Not Fund
 
-- Alcohol. Don't even try it -- even if it is catered by the University.
-- The same event twice. 'Same' can be ambiguous and is up to the discretion of
-  the financial committee
-- Transportation. ESG doesn't **normally** fund transportation
-
-## Auditing
-
-ESG's financial committee has one role and one role only: to disperse money to
-groups who will make the community a better place (and this implicitly implies
-making a budget, which we also do). The funding process is a mix of efficiency
-and good faith. ESG funds events in advance so that groups can guarantee
-members that they will be reimbursed. This guarantee would not be possible if
-ESG only did reimbursements and that could negatively impact events. Any
-leftover money from the event should be transferred back to ESG's account, yet
-ESG won't follow up if this doesn't happen; choosing to believe any withheld
-leftover money will be used to benefit the community in the future. This is a
-controversial methodology, but we believe that it is the best one. It allows
-for both ESG and the student group not to be caught up in the bureaucracy that
-normally encompasses finances. 
-
-[registered ESG group]: http://umec.engin.umich.edu/registered-groups.html
+The Funding Guidelines in Appendix B of [ESG's Bylaws](https://drive.google.com/a/umich.edu/file/d/0B9IdLquRQuaaVDZXZi1tZHpQbGs/view?usp=sharing) clearly define what ESG likes to fund and what ESG will refuse to fund. It would be wise to tailor your initiatives and your applications to those guidelines to improve your chances of getting funded.
