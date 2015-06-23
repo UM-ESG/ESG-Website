@@ -11,7 +11,6 @@ body {
 div.main {
     max-width: 1000px;
     margin: 0 auto;  
-    background-color: #E4E1DF  
 }
 
 li {
@@ -108,7 +107,7 @@ a:hover, a:focus {
 }
 
 a {
-    color: #E4E1DF;
+    color: #FFCB05;
     text-decoration: none;
 }
 
