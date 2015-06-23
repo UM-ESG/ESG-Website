@@ -10,7 +10,8 @@ body {
 
 div.main {
     max-width: 1000px;
-    margin: 0 auto;    
+    margin: 0 auto;  
+    background-color: #E4E1DF  
 }
 
 li {
@@ -95,7 +96,7 @@ ul.category {
     border-width: 10px 0 0 10px;
     margin-right: 20%;
     padding-top: .5em;
-    border-color: #FF6138;
+    border-color: #FFCB05;
     list-style: none;
     padding-left: 1em;
     padding-right: 1em;
@@ -107,7 +108,7 @@ a:hover, a:focus {
 }
 
 a {
-    color: #79BD8F;
+    color: #E4E1DF;
     text-decoration: none;
 }
 
