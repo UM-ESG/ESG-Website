@@ -133,3 +133,10 @@ table.pure-table {
   display: inline;
 }
 
+.nav a {
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
