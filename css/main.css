@@ -122,16 +122,3 @@ ul.category {
 table.pure-table {
     color: #FFF;
 }
-
-div.nav{
-    text-decoration: none;
-    text-align: center;
-    padding: .5cm .5cm;
-    display: inline;
-}
-div.nav li {
-    text-decoration: none;
-  display: inline;
-}
-
-
