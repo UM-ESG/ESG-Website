@@ -6,12 +6,13 @@ body {
        pages and short pages when scrollbar is present/not present. */
     overflow-y: scroll;
     font-size: 1.2em;
+    background-color: #E5E5E5;
 }
 
 div.main {
     max-width: 1000px;
     margin: 0 auto;  
-    background-color: #00274C
+    background-color: #00274C;
 }
 
 li {
@@ -119,7 +120,6 @@ ul.category {
 }
 
 table.pure-table {
-   
     color: #FFF;
 }
 
