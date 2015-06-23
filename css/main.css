@@ -11,6 +11,7 @@ body {
 div.main {
     max-width: 1000px;
     margin: 0 auto;  
+    background-color: #00274C
 }
 
 li {
@@ -90,18 +91,6 @@ ul.subcategory {
     padding-left: 1em;
 }
 
-ul.category {
-    border-style: solid;
-    border-width: 10px 0 0 10px;
-    margin-right: 20%;
-    padding-top: .5em;
-    border-color: #FFCB05;
-    list-style: none;
-    padding-left: 1em;
-    padding-right: 1em;
-    color: #00274C;
-}
-
 a:hover, a:focus {
     text-decoration: underline;
 }
@@ -115,3 +104,17 @@ iframe {
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
+
+ul.category {
+    border-style: solid;
+    border-width: 10px 0 0 10px;
+    margin-right: 20%;
+    padding-top: .5em;
+    border-color: #FFCB05;
+    list-style: none;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #00274C;
+}
+
+
