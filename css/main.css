@@ -127,6 +127,7 @@ div.nav{
     text-decoration: none;
     text-align: center;
     padding: .5cm .5cm;
+    display: inline;
 }
 div.nav li {
   display: inline;
