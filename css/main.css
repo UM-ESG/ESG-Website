@@ -2,7 +2,7 @@ body {
     line-height: 1.75em;
     color: rgba(0,0,0,0.75);
 
-    /* Always shows scrollbars so the UMEC image doesn't shift between long
+    /* Always shows scrollbars so the ESG image doesn't shift between long
        pages and short pages when scrollbar is present/not present. */
     overflow-y: scroll;
     font-size: 1.2em;
@@ -99,10 +99,10 @@ ul.category {
     list-style: none;
     padding-left: 1em;
     padding-right: 1em;
+    color: #00274C;
 }
 
 a:hover, a:focus {
-    color: #FFCB05;
     text-decoration: underline;
 }
 
