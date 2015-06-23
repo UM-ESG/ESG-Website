@@ -123,13 +123,13 @@ table.pure-table {
     color: #FFF;
 }
 
-div.nav{
+.nav{
     text-decoration: none;
     text-align: center;
     padding: .5cm .5cm;
     display: inline;
 }
-div.nav li {
+.nav li {
   display: inline;
 }
 
