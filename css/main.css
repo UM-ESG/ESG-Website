@@ -123,9 +123,12 @@ table.pure-table {
     color: #FFF;
 }
 
-.nav{
-text-align: center;
-padding: .5cm .5cm;
-
+div.nav{
+    text-decoration: none;
+    text-align: center;
+    padding: .5cm .5cm;
+}
+div.nav li {
+  display: inline;
 }
 
