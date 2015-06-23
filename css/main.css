@@ -123,12 +123,15 @@ table.pure-table {
     color: #FFF;
 }
 
-ul.options{
+div.nav{
     text-decoration: none;
     text-align: center;
     padding: .5cm .5cm;
     display: inline;
 }
-
+div.nav li {
+    text-decoration: none;
+  display: inline;
+}
 
 
