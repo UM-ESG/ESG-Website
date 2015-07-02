@@ -1,16 +1,17 @@
 {
   "devDependencies": {
+    "bluebird": "~2.2.2",
+    "glob-all": "~2.4.1",
     "gulp": "~3.8.6",
+    "gulp-autoprefixer": "0.0.10",
+    "gulp-jshint": "^1.7.1",
     "gulp-preprocess": "~1.1.1",
     "gulp-rimraf": "~0.1.0",
-    "gulp-jshint": "^1.7.1",
-    "marked": "~0.3.2",
-    "through2": "~0.5.1",
     "gulp-util": "~3.0.0",
-    "bluebird": "~2.2.2",
+    "jshint-stylish": "^2.0.1",
+    "marked": "~0.3.2",
     "preprocess": "~2.0.0",
-    "glob-all": "~2.4.1",
-    "underscore.string": "~2.3.3",
-    "gulp-autoprefixer": "0.0.10"
+    "through2": "~0.5.1",
+    "underscore.string": "~2.3.3"
   }
 }

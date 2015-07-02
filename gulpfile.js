@@ -120,6 +120,7 @@ gulp.task('css', function() {
 gulp.task('js', function() {
     return gulp.src('js/*')
         .pipe(jshint())
+        .pipe(jshint.reporter('jshint-stylish'))
         .pipe(jshint.reporter('fail'))
         .pipe(gulp.dest('bin/js/.'));
 });
