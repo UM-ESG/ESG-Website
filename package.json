@@ -12,6 +12,7 @@
     "marked": "~0.3.2",
     "preprocess": "~2.0.0",
     "through2": "~0.5.1",
+    "underscore": "^1.8.3",
     "underscore.string": "~2.3.3"
   }
 }
