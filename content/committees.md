@@ -1,10 +1,8 @@
 # ESG Committees
 
-Serving on a ESG committee is a great way to become involved in campus culture and student government.  Apply using the [common application](https://docs.google.com/a/umich.edu/forms/d/1-t7zb_mtO02D0ReBKTHrrhtMYh7DGhkG5dibf9vBrGg/viewform?usp=send_form).  If you're interested in more than one, apply to several (using a single application) and we will place you based on need and fit.  Be sure to read about the committee(s) to which you're applying!
-
 **Table of Contents**
 
-- [Budgetary Committee](#budgetary-committee)
+- [Funding Committee](#funding-committee)
 - [Student Life Committee](#student-life-committee)
 - [Academic Affairs Committee](#academic-affairs-committee)
 - [Major Events Committee](#major-events-committee)
@@ -13,11 +11,11 @@ Serving on a ESG committee is a great way to become involved in campus culture a
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Budgetary Committee
+## Funding Committee
 
-The Budgetary Committee is responsible for reviewing funding requests and approving allocations for student initiatives. 
+The Funding Committee is responsible for reviewing funding requests and approving allocations for student initiatives. 
 
-The Budgetary Committee is chaired by the ESG Treasurer, and must contain 5 to 12 students at any one time.  Up to 5 students-at-large can be appointed to the committee following nomination by the Treasurer and approval by the Senate.
+The Funding Committee is chaired by the ESG Treasurer, and must contain 5 to 12 students at any one time.  Up to 5 students-at-large can be appointed to the committee following nomination by the Treasurer and approval by the Senate.
 
 ## Student Life Committee
 

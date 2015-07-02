@@ -1,4 +1,4 @@
-$(function() {
+/*$(function() {
     var archive = $('a.subcategory');
     archive.on('mouseover', function() {
         $('+ ul', this).show();
