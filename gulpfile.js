@@ -8,6 +8,7 @@ var gutil = require('gulp-util');
 var prefix = require('gulp-autoprefixer');
 var through = require('through2');
 var marked = require('marked');
+var _ = require('underscore');
 var _s = require('underscore.string');
 var path = require('path');
 var fs = require('fs');
@@ -77,15 +78,28 @@ gulp.task('markdown', function() {
 gulp.task('content-markdown', ['markdown'], function(cb) {
     // Find all the files that have been rendered into html from markdown and
     // don't have an associated html file in the base directory
-    var files = glob("*.html").then(function(paths) {
-        var newglob = paths.map(function(val) {
-            return "!" + path.join("content", path.basename(val));
-        });
-        return glob(["content/*.html"].concat(newglob));
-    });
+    var files = glob(["content/*.md", "*.html"]);
 
-    Promise.join(files, fs.readFileAsync(path.join("includes", "content.html"), { encoding: 'utf8' }),
+    Promise.join(files, 
+        fs.readFileAsync(path.join("includes", "content.html"), 
+            { encoding: 'utf8' }),
         function(paths, template) {
+            var htmls = paths.filter(function(val) {
+                return path.extname(val) === '.html';
+            }).map(function(val) {
+                return path.basename(val, ".html");
+            });
+
+            var mds = paths.filter(function(val) {
+                return path.extname(val) === '.md';
+            }).map(function(val) {
+                return path.basename(val, ".md");
+            });
+
+            paths = _.difference(mds, htmls).map(function(val) {
+                return path.join("content", val + ".html");
+            });
+
             // Create an individualized template for each of the markdown files
             return paths.map(function(val) {
                 var templatePath = path.basename(val);
@@ -96,7 +110,7 @@ gulp.task('content-markdown', ['markdown'], function(cb) {
             // Instantiate the template and remove the temporary template
             // afterwards
             var binPath = path.join("bin", val);
-            var title = _s.humanize(path.basename(val, ".html"));
+            var title = _s.capitalize(_s.humanize(path.basename(val, ".html")));
             return pp(val, binPath, {TITLE: title}).return(val);
         }).each(fs.unlink).all().then(function() { cb(); });
 });
@@ -120,6 +134,7 @@ gulp.task('css', function() {
 gulp.task('js', function() {
     return gulp.src('js/*')
         .pipe(jshint())
+        .pipe(jshint.reporter('jshint-stylish'))
         .pipe(jshint.reporter('fail'))
         .pipe(gulp.dest('bin/js/.'));
 });
