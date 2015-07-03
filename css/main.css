@@ -62,10 +62,6 @@ div.biography {
     div.biography {
         display: table;
     }
-
-    div.biography:nth-child(even) .imger {
-        padding-left: 4em;
-    }
 }
 
 div.biography .imger { 
