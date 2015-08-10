@@ -1,0 +1,5 @@
+# Funding Guidelines
+
+Each semester, the Engineering Student Government allots a limited portion of its budget to funding allocations, and each semester, ESG receives more qualified funding requests than it has the resources to fund. Therefore, funding decisions are judged on measures of impact and cost. ESG seeks to fund the requests that most effectively improve the lives of engineering students campus-wide. A few examples of effective impact could be in diversifying the campus, improved students' extra-curricular experiences, or providing resources to students who need them.
+
+The Funding Committee gauges the impact that funding or chooisng not to fund will have on the initiative's effectiveness and compare that difference with the cost of the request. A request that is effective yet exorbitantly expensive is unlikely to be funded. An initiative that will be relatively unaffected by going unfunded could be passed over for an initiative more in need of funding. You should tailor your application to answer those priorities: show how your initiative will be improved by ESG funding and how it effectively spends every dollar.
