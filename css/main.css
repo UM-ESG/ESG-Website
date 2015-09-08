@@ -12,7 +12,7 @@ body {
 
 div.main {
     
-    max-width:1000px;
+    width: 100%;
     background-color: #00274C; 
     margin: 0 auto;
 }
@@ -22,16 +22,19 @@ div.content h1 {
 }
 
 div.content  {
+
     margin-left: auto;
     margin-right: auto;
     background-color: #00274C;
     color: white;
     padding: 30px 30px; 
     overflow: auto;
+    max-width:1000px;
 }
 
 img.logo {
     width: 100%;
+    max-width:1000px;
     display:block;
     margin-left: auto;
     margin-right: auto;
@@ -84,7 +87,7 @@ h2 {
 }
 
 * {
-    font-family: 'Gentium Book Basic', serif;
+    font-family: 'Gentium Book Basic', sans-serif;
 }
 
 a {
@@ -117,8 +120,8 @@ table.pure-table {
  
 .menu {
     background: #FFCB05;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+    /*margin-right: auto;*/
 }
  
 
