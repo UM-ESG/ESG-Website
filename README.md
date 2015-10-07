@@ -1,12 +1,10 @@
 # ESG's Website
 
 This repository houses the source code to the Engineering Student Government
-website. If there is a problem with the website, please [raise an issue][], or
-if that is not possible, contact one of the executive board members.
+website. If there is a problem with the website, please [raise an issue][]
 
 The website is hosted on Nick Babcock's servers. Contact him at nbabcock19@hotmail.com
-The website was last edited by Neal Parikh. Contact him at nealrp@umich.edu
-
+For any questions or concerns please contact the ESG Web Director at esg.webdirector@umich.edu
 
 [raise an issue]: https://github.com/UM-ESG/esg/issues
 
