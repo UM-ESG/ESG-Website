@@ -52,6 +52,10 @@ img.logo {
     color: #FFCC00;
 }
 
+#recent-updates.h1 {
+    text-align: center;
+}
+
 figure {
     background: #00274c;  
     display:block;
