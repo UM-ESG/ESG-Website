@@ -42,18 +42,18 @@ img.logo {
 
 }
 
-#recent-updates {
-    width: 100%;
-    max-width:500px;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-    vertical-align: middle;
-    color: #FFCC00;
-}
-
-#recent-updates h3 {
-    text-align: center;
+#Announcements {
+	color: #FFCC00;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	padding-left: 50%;
+	overflow: hidden;
+	display:block;
+ 	
+	ul {
+		list-style-type: none;
+	}
 }
 
 figure {

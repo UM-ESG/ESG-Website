@@ -13,3 +13,5 @@ Here is the process for how ESG is involved with student initiatives.
 4. Once the funding is approved, you’ll get an email. If you’re a student organization, the funds will be transferred to the group's SOAS account.
 5. You and/or your group members make purchases related to your initiative.
 6. If you’re a student org, you reimburse your members, and then return any leftover money to ESG. If you’re not a student organization, you’ll submit receipts to the ESG Treasurer for direct reimbursement.
+
+Find ESG branding materials [here](https://drive.google.com/a/umich.edu/folderview?id=0B6QX6z4nON8uflRNNXlLNURySXEzeWhBaGtjaDllNFlWc3R3VjVZMldTVWZGSm9FOERQZ1U&usp=sharing)
