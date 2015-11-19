@@ -51,9 +51,11 @@ img.logo {
 	overflow: hidden;
 	display:block;
  	
-	ul {
-		list-style-type: none;
-	}
+
+}
+
+#Announcements ul {
+	list-style-type: none;
 }
 
 figure {
