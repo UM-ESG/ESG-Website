@@ -44,18 +44,21 @@ img.logo {
 
 #Announcements {
 	color: #FFCC00;
-	width: 50%;
-	margin: 0 auto;
-	text-align: center;
-	padding-left: 50%;
-	overflow: hidden;
-	display:block;
- 	
+	width: 100%;
+    max-width:500px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle; 	
 
 }
 
 #Announcements ul {
 	list-style-type: none;
+}
+
+#Announcements h3 {
+    padding-left: 175px;
 }
 
 figure {
